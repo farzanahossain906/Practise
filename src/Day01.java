@@ -3,5 +3,6 @@ public class Day01 {
         System.out.println("Good luck");
         System.out.println("farzana");
         System.out.println("Ohee");
+        System.out.println("Ruhee");
     }
 }
